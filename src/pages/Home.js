@@ -144,7 +144,7 @@ const Home = () => {
       <section className="hero-section-6 mb-0 pb-0">
         <div className="curved-container mb-0 pb-0">
           <Card className="w-100" style={{ border: "none", borderRadius: "0px" }}>
-            <div className="d-flex flex-column gap-5 text-center w-100">
+            <div className="d-flex flex-column gap-4 gap-md-5 text-center w-100">
               <div>
                 <h2 style={{ color: "#091133" }} className="mb-3">
                   A Price To Suit Everyone

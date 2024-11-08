@@ -209,8 +209,6 @@ p {
   padding-top: 4px !important;
   padding-bottom: 16px !important;
   height: 32px !important;
-  justify-content: center !important;
-  align-items: center !important;
 }
 
 @media (max-width: 1200px) {
@@ -347,5 +345,8 @@ p {
   .hero-section-6 .card {
     padding-top: 60px;
     padding-bottom: 60px;
+  }
+  .hero-section-6 .btn {
+    padding-top: 5px !important;
   }
 }
