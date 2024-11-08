@@ -1,11 +1,10 @@
 import React from "react";
 import { Card, Row, Col, Button, Image } from "react-bootstrap";
-import HeroImage from "../assets/hero-group-image.png";
+import HeroImage from "../assets/hero-group-image.svg";
 import HeroImage2 from "../assets/hero-image-2.svg";
 import HeroImage3 from "../assets/hero-image-3.svg";
 import HeroImage4 from "../assets/hero-image-4.svg";
 import HeroImage5 from "../assets/hero-image-5.svg";
-import PathImage2 from "../assets/Path-2.svg";
 import shape from "../assets/shape.svg";
 
 const Home = () => {
